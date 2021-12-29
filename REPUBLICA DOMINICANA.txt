@@ -25,6 +25,7 @@ http://51.81.106.157:8084/hls/alatina.m3u8
 
 #EXTINF:0 tvg-chno="9" tvg-name="COLOR VISION HD" tvg-id="colorvision.do" tvg-logo="http://imgfz.com/i/FohiCfA.jpeg" group-title="DOMINICANOS",COLOR VISION HD
 https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYxqJp3s9D-EpMl7TA8taKpo)/dm/3/x7gy059/d/live-4.m3u8#cell=lnyc
+
 #EXTINF:0 tvg-chno="10" tvg-name="MICROVISION" tvg-logo="http://imgfz.com/i/ZFGmawQ.jpeg" group-title="DOMINICANOS",MICROVISION
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w199979440.m3u8
 
