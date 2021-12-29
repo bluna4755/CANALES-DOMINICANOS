@@ -41,7 +41,7 @@ http://api.new.livestream.com/accounts/28126860/events/9438854/live.m3u8
 https://panel.streamingtv-mediacp.online:1936/8170/8170/chunklist_w1367222681.m3u8
 
 #EXTINF:0 tvg-chno="15" tvg-name="DIGITAL 15" tvg-id="digital15.do" tvg-logo="http://imgfz.com/i/SOy1F4f.png" group-title="DOMINICANOS",DIGITAL 15
-https://playback.akamaized.net/streams/27456795_8268514_lsiym1920i4otobh8yz_1/media/27456795_8268514_lsiym1920i4otobh8yz_1@2756000p.m3u8?dw=14400&ts=1640732400&hdnts=exp=1640906258~acl=/streams/27456795_8268514_lsiym1920i4otobh8yz_1/media*~hmac=19e5d3f6acb68b02d37f02ea30ab7bc64174952fbe0d19165a2216036d2f520d
+https://playback.akamaized.net/streams/27456795_8268514_lsic7rgafgbdxevh2hu_1/media/27456795_8268514_lsic7rgafgbdxevh2hu_1@2756000p.m3u8?dw=14400&ts=1640793600&hdnts=exp=1640969748~acl=/streams/27456795_8268514_lsic7rgafgbdxevh2hu_1/media*~hmac=5073e9a473ddd78544e4ccda0e5f69119af19902c26f6729919cde3fe6a39a3d
 
 #EXTINF:0 tvg-chno="16" tvg-name="TELEUNION" tvg-id="teleunion.do" tvg-logo="https://i.postimg.cc/fLn3kLbg/TELEUNION.jpg" group-title="DOMINICANOS",TELEUNION
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8
