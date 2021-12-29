@@ -249,8 +249,9 @@ https://inliveserver.com:1936/10022/10022/chunklist_w129013849.m3u8
 #EXTINF:0 tvg-chno="83" tvg-name="VILLA ALTAGRACIA TV" tvg-logo="http://imgfz.com/i/z9XAnyF.jpeg" group-title="DOMINICANOS",VILLA ALTAGRACIA TV
 https://inliveserver.com:1936/10016/10016/chunklist_w1403683560.m3u8
 
-#EXTINF:0 tvg-chno="83" tvg-name="TELECANAL 12" tvg-logo="http://imgfz.com/i/aHJUnqu.jpeg" group-title="DOMINICANOS",TELECANAL 12
+#EXTINF:0 tvg-chno="83" tvg-name="TELECANAL 12" tvg-logo="http://imgfz.com/i/aHJUnqu.jpeg" group-title="DOMINICANOS",TELECANAL 12 MAO
 https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
+
 
 
 #EXTINF:0 tvg-chno="84" tvg-name="PRIMERA FM" tvg-logo="http://imgfz.com/i/lf5LSkn.jpeg" group-title="EMISORAS DOMINICANAS",PRIMERA FM
